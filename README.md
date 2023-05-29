@@ -2,8 +2,8 @@
 Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis"
 
 ### 2. Requirements
-bzip2-1.0.8
-c-ares-1.19.0
+bzip2-1.0.8 --
+c-ares-1.19.0 --
 fonttools-4.39.3
 pyg-2.2.0
 python-3.9.16
