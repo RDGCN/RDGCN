@@ -14,19 +14,20 @@ Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-ba
 - pandas==1.5.1
 
 
-### 3. Example 😄
-```
-1. python data_preprocessor.py
 
-2. python main.py
-```
-
-
-### 4. Preparation 🌱
+### 3. Preparation 🌱
 ```
 1. Download and unzip GloVe vectors (glove.840B.300d.zip) from https://nlp.stanford.edu/projects/glove/ and put it into ./glove directory.
 
 2. Download the BERT encoder (bert-base-uncased) from https://github.com/huggingface/transformers/ and put it into ./bert directory.
+```
+
+
+### 4. Example 😄
+```
+1. python data_preprocessor.py
+
+2. python main.py
 ```
 
 
