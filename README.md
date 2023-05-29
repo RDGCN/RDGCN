@@ -23,19 +23,19 @@ Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-ba
 
 
 ### 5. Links ⚡
-# 5.1 Glove
+#### 5.1 Glove
 ```
 https://nlp.stanford.edu/projects/glove/
 ```
-# 5.2 BERT
+#### 5.2 BERT
 ```
 https://github.com/huggingface/transformers/
 ```
-# 5.3 Datasets
+#### 5.3 Datasets
 ```
 https://github.com/zhangzheng1997/SSEGCN-ABSA/
 ```
-# 5.4 Stanza Parser
+#### 5.4 Stanza Parser
 ```
 https://stanfordnlp.github.io/stanza/
 ```
