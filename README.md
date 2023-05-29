@@ -22,21 +22,23 @@ Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-ba
 ```
 
 
+### 4. Preparation 🌱
+```
+1. Download and unzip GloVe vectors (glove.840B.300d.zip) from https://nlp.stanford.edu/projects/glove/ and put it into ./glove directory.
+
+2. Download the BERT encoder (bert-base-uncased) from https://github.com/huggingface/transformers/ and put it into ./bert directory.
+```
+
+
 ### 5. Links ⚡
+```
 #### 5.1 Glove
-```
 https://nlp.stanford.edu/projects/glove/
-```
 #### 5.2 BERT
-```
 https://github.com/huggingface/transformers/
-```
 #### 5.3 Datasets
-```
 https://github.com/zhangzheng1997/SSEGCN-ABSA/
-```
 #### 5.4 Stanza Parser
-```
 https://stanfordnlp.github.io/stanza/
 ```
 
@@ -46,7 +48,7 @@ https://stanfordnlp.github.io/stanza/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -  Ask me about ...
