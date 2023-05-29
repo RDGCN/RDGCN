@@ -4,7 +4,6 @@ Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-ba
 ```
 
 ### 2. Requirements 📫
-```
 - bzip2==1.0.8
 - c-ares==1.19.0
 - fonttools==4.39.3
@@ -13,12 +12,13 @@ Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-ba
 - numpy==1.23.5
 - pytorch==1.12.0
 - pandas==1.5.1
-```
+
 
 ### 3. Example 😄
 ```
-- python data_preprocessor.py
-- python main.py
+1. python data_preprocessor.py
+
+2. python main.py
 ```
 
 
@@ -31,12 +31,11 @@ Code for "RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-ba
 
 
 ### 5. Links ⚡
-```
 - Glove: https://nlp.stanford.edu/projects/glove/
 - BERT: https://github.com/huggingface/transformers/
 - Datasets: https://github.com/zhangzheng1997/SSEGCN-ABSA/
 - Stanza Parser: https://stanfordnlp.github.io/stanza/
-```
+
 
 <!--
 **RDGCN/RDGCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
